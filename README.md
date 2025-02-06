@@ -1,6 +1,6 @@
 # [Where Is My Car?](https://www.whereismycar.link/parking)
 
-is a little utility app that help you find your parked car.  
+is a little utility app that helps you find your parked car.  
 It all started because I'm tired of remembering where I parked my car.  
 Hope it helps you too!
 
@@ -13,4 +13,4 @@ Hope it helps you too!
 
 ## Upcoming Features
 
-- Internationalization(currently the app in Korean)
+- Internationalization(currently the app is in Korean)
